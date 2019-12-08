@@ -44,4 +44,4 @@ The derivative using the derivative from Monom class. we derivative every Monom 
 double area(double x0, double x1, double eps)- this method returns us the area between the polynom and  the x axis ,using Riemann's Integral : https://en.wikipedia.org/wiki/Riemann_integral.
 Iterator<Monom> iteretor()- method that help us go through every Monom in the polynom.
 void multiply(Monom m1)- Multiply Polynom with Monom m1 using the method multiply between two Monomies.
- String toString() -  represent the Polynom as a String.
+ String toString() -  represent the Polynom as a String..
